@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine;
+}
+
+.hy {
+    font-size: 30px;
+}
+
+#score{
+    margin-left: 20px;
+}
+
+#timer{  
+    float: right;
+    margin-right: 70px;
+}
+
+#stbd {
+    color: maroon;
+    font-weight: 600;
+}
